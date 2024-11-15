@@ -1,5 +1,5 @@
 body{
-    background-image: url(url(../img/fotocss.jpg));
+    background-image: url(/img/fotocss.jpg);
     margin: 1cm;
     min-height: 3vh;
     font-family: Arial, sans-serif;
