@@ -1,8 +1,10 @@
 body{
-    background-image: url(/img/fotocss.jpg);
     margin: 1cm;
     min-height: 3vh;
-    font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif; 
+}
+body {
+    background-image: url(https://c.pxhere.com/photos/e0/84/building_lights_skyline_architecture_cityscape_city_urban_travel-1026108.jpg!d)
 }
 .boton{
     display: inline-block;
