@@ -42,6 +42,10 @@ img{
 .titulo{
     text-decoration: underline;
 }
+.titulo2 {
+    text-decoration: underline;
+    text-align: center;
+}
 h1{
     margin: 0;
 }
