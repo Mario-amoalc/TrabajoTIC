@@ -1,0 +1,20 @@
+body{
+    background-color: #e6cba5;
+    margin: 1cm;
+    min-height: 3vh;
+    font-family: Arial, sans-serif;
+}
+.container{
+    border: 2px solid #ccc;
+    padding: 20px;
+    background-color: #ffffff;
+    align-items: center;
+    justify-content: space-between;
+}
+.titulo{
+    text-decoration: underline;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
