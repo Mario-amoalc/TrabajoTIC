@@ -21,14 +21,6 @@ p{
     font-size: 18px;
     font-family: 'Times New Roman', Times, serif;
 }
-footer{
-    bottom: 0;
-    background-color:  #6d7578 ;
-    position: inherit;
-    width: 100%;
-    padding: 10px;
-    border-top: 1px solid;
-}
 .container{
     border: 2px solid #ccc;
     padding: 20px;
@@ -58,7 +50,4 @@ header{
 }
 div{
     text-align: center;
-}
-.foot:hover{
-    background-color: #e7bfa5;
 }
