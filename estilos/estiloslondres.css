@@ -5,9 +5,9 @@ body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .container{
-    border: 2px solid #ccc;
+    border: 2px solid #050505;
     padding: 20px;
-    background-color: #ffffff;
+    background-color: #a9d4ec;
     align-items: center;
     justify-content: space-between;
 }
