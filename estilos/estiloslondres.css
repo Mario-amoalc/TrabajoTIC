@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://thumbs.dreamstime.com/b/puente-de-la-torre-en-londres-reino-unido-38138737.jpg);
+    margin: 1cm;
+    min-height: 3vh;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.container{
+    border: 2px solid #ccc;
+    padding: 20px;
+    background-color: #ffffff;
+    align-items: center;
+    justify-content: space-between;
+}
+
+div{
+    text-align: center;
+}
