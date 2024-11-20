@@ -4,3 +4,11 @@ header{
     text-align: center;
     padding: 20px 0;
 }
+.header{
+  font-family: "Century Gothic" ;
+  border-collapse: collapse;
+  width:100%; 
+}
+.boton:hover{
+  background-color:  #878b8d;
+}
