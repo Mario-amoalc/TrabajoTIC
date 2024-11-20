@@ -12,3 +12,11 @@ header{
 .boton:hover{
   background-color:  #878b8d;
 }
+td{
+  border:0px solid  #6d7578;
+  border-radius: 15px;
+}
+.enlace{
+  text-decoration: none;
+  color: whitesmoke;
+}
