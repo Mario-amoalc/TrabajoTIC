@@ -1,54 +1,65 @@
 
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
-    margin: 0;
-    padding: 20px;
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #f5f5f5; /* Color de fondo suave */
+    color: #333; /* Color de texto */
 }
 
+.container {
+    background-color: #ffffff; /* Fondo blanco para cada contenedor */
+    border-radius: 8px; /* Esquinas redondeadas */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    padding: 20px; /* Padding interno */
+    margin-bottom: 20px; /* Espaciado entre los contenedores */
+}
 
 h1 {
-    text-align: center;
-    color: #2c3e50;
-    margin-top: 20px;
+    color: #2980b9; /* Color para el título principal */
+    font-size: 2.5em; /* Tamaño de fuente aumentado */
+    text-align: center; /* Centrar el texto */
+    margin-bottom: 20px; /* Espacio debajo del título */
 }
-
 
 h2 {
-    background-color: #3498db;
-    color: white;
-    padding: 10px;
-    border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-    margin-top: 20px;
+    color: #2c3e50; /* Color para subtítulos */
+    font-size: 2em; /* Tamaño de fuente para subtítulos */
+    margin-top: 20px; /* Espacio encima del subtítulo */
+    border-bottom: 2px solid #2980b9; /* Línea debajo del subtítulo */
+    padding-bottom: 5px; /* Padding interno debajo del subtítulo */
 }
-
-
-p {
-    line-height: 1.6;
-    margin: 10px 0;
-}
-
 
 h3 {
-    text-align: center;
-    color: #e74c3c;
-    margin-top: 40px;
+    color: #8e44ad; /* Color para subtítulos menores */
+    font-size: 1.5em; /* Tamaño de fuente para subtítulos menores */
+    margin-top: 15px; /* Espacio encima */
 }
 
-
-p:hover {
-    background-color: #ecf0f1;
-    transition: background-color 0.3s ease;
+ul {
+    list-style-type: square;
+    margin-left: 20px; /* Espaciado a la izquierda */
 }
 
-/* Estilo de los enlaces (si planeas agregar) */
+p {
+    margin: 10px 0; /* Espacio arriba y abajo de los párrafos */
+}
+
 a {
-    color: #3498db;
-    text-decoration: none;
+    color: #2980b9; /* Color de enlaces */
+    text-decoration: none; /* Sin subrayado */
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: underline; /* Subrayar al pasar el mouse */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    body {
+        margin: 10px; /* Menor margen en pantallas pequeñas */
+    }
+    .container {
+        padding: 15px; /* Menor padding en pantallas pequeñas */
+    }
 }
