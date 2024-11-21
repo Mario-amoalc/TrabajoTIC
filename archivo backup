@@ -1,4 +1,4 @@
-        <hidden>
+
         <iframe src="Header.html" sandbox="allow-top-navigation"></iframe>
             <p> Desde el Mendoza, llevamos realizando el viaje de fin de curso en 1º de Bachillerato desde hace un par de años, debido  a esto, este año, hemos decidido presentar diversos destinos, y realizar una votación para los más apoyados.</p>
             <br><br>
@@ -11,4 +11,3 @@
             </ol>
             <iframe src="footer.html"></iframe>
         </div>
-    </hidden>
