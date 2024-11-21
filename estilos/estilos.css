@@ -57,4 +57,5 @@ div{
 iframe{
     width:100%;
     border:none;
+    height: fit-content;
 }
